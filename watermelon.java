@@ -13,5 +13,6 @@ public class watermelon{
         else{
             System.out.println("NO");
         }
+        input.close();
     }
 }
